@@ -1,5 +1,10 @@
 //This is some important code
 
+
 document.write("Hello World"):
 
 // blah blah
+
+document.write("Hello World");
+document.write("Hello Git");
+
